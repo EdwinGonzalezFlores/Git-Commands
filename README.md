@@ -70,3 +70,8 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+
+###I M P O R T A N T
+git config user.name edwinma3046
+git config user.email 00013420@uca.edu.sv
