@@ -75,7 +75,7 @@ _A list of my commonly used Git commands_
 ### I M P O R T A N T
 
 
-git config user.name edwinma3046
+git config user.name EdwinGonzalezFlores
 
 |
 git config user.email 00013420@uca.edu.sv
